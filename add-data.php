@@ -75,7 +75,7 @@ else if(isset($_GET['failure']))
         <tr>
             <td colspan="2">
             <button type="submit" class="btn btn-primary" name="btn-save">
-    		<span class="glyphicon glyphicon-plus"></span> Create New Record
+    		<span class="glyphicon glyphicon-plus"></span> Submit
 			</button>  
             <a href="index.php" class="btn btn-large btn-success"><i class="glyphicon glyphicon-backward"></i> &nbsp; Back to index</a>
             </td>

@@ -21,7 +21,7 @@ if(isset($_POST['btn-del']))
 	{
 		?>
         <div class="alert alert-success">
-    	<strong>Success!</strong> record was deleted... 
+    	<strong>Record deleted!!!</strong> 
 		</div>
         <?php
 	}
@@ -29,7 +29,7 @@ if(isset($_POST['btn-del']))
 	{
 		?>
         <div class="alert alert-danger">
-    	<strong>Sure !</strong> to remove the following record ? 
+    	<strong>WARNING: This record will be deleted! </strong> 
 		</div>
         <?php
 	}
